@@ -1,0 +1,15 @@
+{
+  "canisters": {
+    "cycles_hello": {
+      "main": "src/cycles_hello/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "version": 1
+}
